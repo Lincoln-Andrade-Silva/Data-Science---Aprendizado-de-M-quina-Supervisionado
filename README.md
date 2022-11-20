@@ -1,4 +1,4 @@
-# Data-Science-Aprendizado-Não-Supervisionado-UP
+# Data-Science-Aprendizado-Supervisionado-UP
 
 #### Turma - Ecoville - ES - Sexta - 19:00 às 21:40
 
